@@ -30,8 +30,3 @@ public class HighestNumber {
 //Print the highest of three numbers
  
 }
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
